@@ -26,7 +26,8 @@ Si quieres ponerte en contacto conmigo, aquí tienes mis redes y correo electró
 Correo electrónico: gigenamaurobr@gmail.com
 LinkedIn: (https://www.linkedin.com/in/gigenamauroexequiel/)
 
-Frameworks de desarrollo  
+
+- **Frameworks de desarrollo**  
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -34,7 +35,7 @@ Frameworks de desarrollo
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-Lenguajes de programacion  
+- **Lenguajes de programacion**  
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,7 +65,7 @@ Librerias de desarrollo
 
 Bases de datos  
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 Compilacion de modulos  
