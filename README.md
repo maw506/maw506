@@ -1,20 +1,33 @@
-FRONT END DEVELOPER
+👋 ¡Hola! Soy Mauro Gigena
 
-<!--
-**maw506/maw506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y atractivas. Tengo experiencia en tecnologías modernas como React, JavaScript, HTML/CSS, y herramientas de diseño como Figma. Me encanta aprender cosas nuevas y trabajar en proyectos que desafíen mis habilidades.
 
-Here are some ideas to get you started:
+🚀 Sobre Mí
+⚡ Estudiante de ing en sistemas
+💻 Front-End Developer con mas de 2 años de experiencia
+🔭 Actualmente estoy trabajando en MAGNA - INTERNATIONAL
+🎨 Amante del diseño de interfaces visuales y de la experiencia del usuario
+📚 Apasionado por aprender y aplicar tecnologías modernas para la web
+🌱 Actualmente, estoy profundizando en el diseño UX/UI y en la programacion con TypeScript
+💡 Me interesa el desarrollo de interfaces accesibles y la optimización de la performance en aplicaciones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Habilidades Técnicas**
+- **JavaScript (ES6+)**
+- **React** - Componentes, Hooks, Redux
+- **Redux** - Manejo de estado en aplicaciones complejas
+- **Git & GitHub**
+- **Figma - Diseño UI**
+- **Webpack** (para proyectos avanzados)
+
+📫 Contacto
+Si quieres ponerte en contacto conmigo, aquí tienes mis redes y correo electrónico:
+
+Correo electrónico: tu-email@dominio.com
+LinkedIn: linkedin.com/in/tuusuario
+
 
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![image]([https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white))
 
 
