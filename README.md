@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Mauro Gigena
+<h1>👋 ¡Hola! Soy Mauro Gigena </h1>
 
 Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y atractivas. Tengo experiencia en tecnologías modernas como React, JavaScript, HTML/CSS, y herramientas de diseño como Figma. Me encanta aprender cosas nuevas y trabajar en proyectos que desafíen mis habilidades.
 
