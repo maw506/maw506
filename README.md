@@ -26,7 +26,8 @@ Si quieres ponerte en contacto conmigo, aquí tienes mis redes y correo electró
 Correo electrónico: tu-email@dominio.com
 LinkedIn: linkedin.com/in/tuusuario
 
-Frameworks de desarrollo
+Frameworks de desarrollo  
+
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
