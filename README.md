@@ -3,6 +3,7 @@
 Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y atractivas. Tengo experiencia en tecnologías modernas como React, JavaScript, HTML/CSS, y herramientas de diseño como Figma. Me encanta aprender cosas nuevas y trabajar en proyectos que desafíen mis habilidades.
 
 🚀 Sobre Mí
+
 ⚡ Estudiante de ing en sistemas
 💻 Front-End Developer con mas de 2 años de experiencia
 🔭 Actualmente estoy trabajando en MAGNA - INTERNATIONAL
