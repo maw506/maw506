@@ -23,8 +23,8 @@ Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y 
 📫 Contacto
 Si quieres ponerte en contacto conmigo, aquí tienes mis redes y correo electrónico:
 
-Correo electrónico: tu-email@dominio.com
-LinkedIn: linkedin.com/in/tuusuario
+Correo electrónico: gigenamaurobr@gmail.com
+LinkedIn: (https://www.linkedin.com/in/gigenamauroexequiel/)
 
 Frameworks de desarrollo  
 
@@ -32,6 +32,7 @@ Frameworks de desarrollo
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 Lenguajes de programacion  
 
@@ -50,11 +51,21 @@ Librerias de Diseño UI
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 
+Procesador de css  
+
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 Librerias de desarrollo  
 
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+Bases de datos  
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 Compilacion de modulos  
 
