@@ -1,12 +1,12 @@
 <h1>👋 ¡Hola! Soy Mauro Gigena </h1>
 
-Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y atractivas. Tengo experiencia en tecnologías modernas como React, JavaScript, HTML/CSS, y herramientas de diseño como Figma. Me encanta aprender cosas nuevas y trabajar en proyectos que desafíen mis habilidades.
+Desarrollador Fullstack con mejor especialidad en el Front end apasionado por crear interfaces de usuario intuitivas y atractivas. Tengo experiencia en tecnologías modernas como React, JavaScript, HTML/CSS, y herramientas de diseño como Figma. Me encanta aprender cosas nuevas y trabajar en proyectos que desafíen mis habilidades.
 
 🚀 Sobre Mí
 
-⚡ Estudiante de ingenieria de software
+⚡ Estudiante de ingenieria de software  
 💻 Fullstack Developer con mas de 3 años de experiencia  
-🔭 Actualmente estoy trabajando en NTT DATA 
+🔭 Actualmente estoy trabajando en NTT DATA  
 🎨 Amante del diseño de interfaces visuales y de la experiencia del usuario  
 📚 Apasionado por aprender y aplicar tecnologías modernas para la web  
 🌱 Actualmente, estoy profundizando en el diseño UX/UI y en la programacion con TypeScript  
