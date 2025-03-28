@@ -4,9 +4,9 @@ Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y 
 
 🚀 Sobre Mí
 
-⚡ Estudiante de ing en sistemas  
-💻 Front-End Developer con mas de 2 años de experiencia  
-🔭 Actualmente estoy trabajando en MAGNA - INTERNATIONAL  
+⚡ Estudiante de ingenieria de software
+💻 Fullstack Developer con mas de 3 años de experiencia  
+🔭 Actualmente estoy trabajando en NTT DATA 
 🎨 Amante del diseño de interfaces visuales y de la experiencia del usuario  
 📚 Apasionado por aprender y aplicar tecnologías modernas para la web  
 🌱 Actualmente, estoy profundizando en el diseño UX/UI y en la programacion con TypeScript  
@@ -15,7 +15,7 @@ Desarrollador Front-End apasionado por crear interfaces de usuario intuitivas y 
 📫 Contacto
 Si quieres ponerte en contacto conmigo, aquí tienes mis redes y correo electrónico:
 
-Correo electrónico: gigenamaurobr@gmail.com
+Correo electrónico: gigenamauro@gmail.com
 LinkedIn: (https://www.linkedin.com/in/gigenamauroexequiel/)
 
 
